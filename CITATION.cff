@@ -1,1 +1,11 @@
-
+cff-version: 1.1.0
+message: "If you use this library, please cite it as below."
+title: "bonezegei/BSL_Base64"
+authors:
+  - family-names: "Batutay"
+    given-names: "Jofel"
+    orcid: "https://orcid.org/0009-0007-1467-1947"
+version: ""
+doi: "3"
+date-released: 2026-08-29
+url: "https://github.com/bonezegei/BSL_Base64"
