@@ -9,6 +9,7 @@
   - [1. Base64 Decode and Encode](#1-base64-decode-and-encode)
 - [API Reference](#api-reference)
 - [License & Author](#license--author)
+- [Citation](#citation)
 
 ## Installation
 
