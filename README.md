@@ -70,3 +70,12 @@ print("Decoded: " + de);
 * **Author:** Jofel Batutay ([Bonezegei](https://github.com/bonezegei))
 * **Date:** August 29, 2026
 * **Website:** [bonezegei.com](https://bonezegei.com)
+
+## Citation 
+[![DOI](https://zenodo.org/badge/1350674211.svg)](https://doi.org/10.5281/zenodo.22163356)
+
+If you use this library, please cite it as below:
+
+**APA Format:**
+
+Batutay, J. (2026). *bonezegei/BSL_Base64* [Computer software]. https://doi.org/10.5281/zenodo.22163356
