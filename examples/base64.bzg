@@ -1,0 +1,16 @@
+/*
+    Base64 Example Decode and Encode
+    Author: Jofel Batutay (Bonezegei)
+    Date: August 29, 2026
+*/
+
+// include the library after Installation (" bzg install base64 ")
+include("lib/base64.bzg");
+
+var base64 = base64();
+
+var en = base64.encode("Bonezegei Scripting Language Base64 Library"); 
+var de = base64.decode(en);
+
+print("Encoded: " + en);
+print("Decoded: " + de);
