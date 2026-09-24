@@ -47,7 +47,7 @@ include("lib/base64.bzg");
 
 var base64 = base64();
 
-// var en = base64.encode("Bonezegei Scripting Language Base64 Library", true); //param 2 will treat param 1 as hex string 
+// var en = base64.encode("b37a4f2cc0624f1690f64606cf385945b2bec4ea", true); //param 2 will treat param 1 as hex string 
 var en = base64.encode("Bonezegei Scripting Language Base64 Library"); 
 var de = base64.decode(en);
 

@@ -1,0 +1,22 @@
+{
+  "name": "Base64",
+  "version": "1.0.1",
+  "object": {
+    "base64": {
+      "info": "Base64 Object",
+      "params": "",
+      "req_params": 0
+    },
+    "encode": {
+      "info": "encode a string to base64",
+      "params": "param1: string to encode, param2: param1 should be a hex string and set this to true",
+      "req_params": 2
+    },
+    "decode": {
+      "info": "decode base64 to string",
+      "params": "param1: string to decode",
+      "req_params": 1
+    }    
+  }
+  
+}
